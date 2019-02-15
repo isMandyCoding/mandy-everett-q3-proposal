@@ -12,7 +12,7 @@ Users would be potential and current customers for the restaurant.
 
 ## What outputs do they need?
 
-Users would need to be able to see the menu, which will be provided by the database, and will be able to 
+Users would need to be able to see the menu, which will be provided by the database, and will be able to submit orders. 
 
 ### Menu
 
